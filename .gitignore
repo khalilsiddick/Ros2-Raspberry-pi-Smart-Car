@@ -1,0 +1,17 @@
+# ROS2 Workspace Folders
+build/
+install/
+log/
+
+# IDE/Editor Files
+*.code-workspace
+
+# Python/Cache
+__pycache__/
+*.pyc
+
+# Environment/System
+.vscode/
+.idea/
+*.swp
+*.env
